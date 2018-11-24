@@ -1,0 +1,7 @@
+Q:Does it use the Force?
+Q:Is it evil?
+A:Sith
+A:Jedi
+Q:Is it metal?
+A:droid
+A:wookiee

@@ -1,0 +1,13 @@
+Q:does it have antlers?
+A:reindeer
+Q:does it travel on Christmas Eve?
+A:santa
+Q:does it build toys?
+A:elf
+Q:can you ski on it?
+A:snow
+Q:is it furry?
+A:polar bear
+Q:do you kiss underneath it?
+A:mistletoe
+A:angel

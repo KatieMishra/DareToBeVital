@@ -1,0 +1,60 @@
+Welcome to CS 106B 20 Questions!
+Think of an item, and I will guess it
+using a series of yes-or-no questions.
+I can also learn and grow smarter over time.
+
+Shall I recall my previous memory state? n
+
+P)lay, R)ead, W)rite, M)erge, S)tats, Q)uit? r
+Input file name? tiny.txt
+Reading question tree ...
+
+P)lay, R)ead, W)rite, M)erge, S)tats, Q)uit? p
+Does it use the Force? y
+Is it evil? n
+Are you thinking of: Jedi? y
+Hooray, I win!
+
+P)lay, R)ead, W)rite, M)erge, S)tats, Q)uit? p
+Does it use the Force? n
+Is it metal? n
+Are you thinking of: wookiee? y
+Hooray, I win!
+
+P)lay, R)ead, W)rite, M)erge, S)tats, Q)uit? p
+Does it use the Force? y
+Is it evil? y
+Are you thinking of: Sith? n
+Drat, I lost. What was your object? professor
+Type a Y/N question to distinguish professor from Sith: Does it give hard exams?
+And what is the answer for professor? y
+
+P)lay, R)ead, W)rite, M)erge, S)tats, Q)uit? s
+Brain: Q4/A5, Height: 3-4, Games: W2/L1 (66.7%)
+
+P)lay, R)ead, W)rite, M)erge, S)tats, Q)uit? p
+Does it use the Force? y
+Is it evil? y
+Does it give hard exams? y
+Are you thinking of: professor? n
+Drat, I lost. What was your object? section leader
+Type a Y/N question to distinguish section leader from professor: Is it overpaid?
+And what is the answer for section leader? n
+
+P)lay, R)ead, W)rite, M)erge, S)tats, Q)uit? p
+Does it use the Force? y
+Is it evil? y
+Does it give hard exams? y
+Is it overpaid? n
+Are you thinking of: section leader? y
+Hooray, I win!
+
+P)lay, R)ead, W)rite, M)erge, S)tats, Q)uit? s
+Brain: Q5/A6, Height: 3-5, Games: W3/L2 (60.0%)
+
+P)lay, R)ead, W)rite, M)erge, S)tats, Q)uit? q
+
+Remembering this memory state for later ...
+Writing question tree ...
+
+Thanks for playing!

@@ -1,0 +1,251 @@
+Q:Is your character a mechanical being (i.e. droid)?
+Q:Is your character a medical droid?
+A:2-1B
+Q:Is your character a bounty hunter?
+Q:Is your character an ex-protocol droid?
+A:4-LOM
+A:IG-88
+Q:Is your character a protocol droid?
+Q:Is your character shiny?
+Q:Is your character the property of the Trade Federation?
+A:TC-14
+A:C-3PO
+A:K-3PO
+Q:Did your character store the last will of Jabba the Hutt?
+A:CB-99
+Q:Does your character torture droids?
+A:EV-9D9
+Q:Is your droid rectangular?
+A:Gonk Droid
+Q:Is your character a general?
+A:General Grievous
+Q:Is your character an astromech droid?
+Q:Is your droid brown?
+A:R4-P17
+Q:Is your droid red?
+A:R5-D4
+A:R2-D2
+A:8D8
+Q:Is your character force-adept?
+Q:Is your character a member of the Jedi Council?
+Q:Is your character human?
+Q:Is your character married to Luke Skywalker?
+A:Mara Jade Skywalker
+Q:Is your character male?
+Q:Is your character killed by Darth Maul?
+A:Qui-Gon Jinn
+Q:Does your character turn to the dark side?
+A:Anakin Skywalker
+Q:Is your character a badass motherfucker?
+A:Mace Windu
+A:Obi-Wan Kenobi
+A:Stass Allie
+Q:Is your character male?
+Q:Does your character have horns?
+A:Agen Kolar
+Q:Does your character wear a breathing mask?
+A:Plo Koon
+Q:Is your character of normal human height?
+Q:Does your character have a long neck?
+A:Yarael Poof
+Q:Does your character have a beard?
+A:Oppo Rancisis
+A:Ki-Adi-Mundi
+Q:Is your character green?
+A:Yoda
+A:Even Piell
+A:Depa Billaba
+Q:Is your character a direct decendent of Anakin Skywalker?
+Q:Is your character a sith?
+A:Darth Caedus
+Q:Is your character a descendent of Leia Organa?
+A:Anakin Solo
+A:Luke Skywalker
+Q:Is your character a sith?
+Q:Is your character insane?
+A:Joruus C'baoth
+Q:Is your character human?
+Q:Is your character killed by Anakin Skywalker?
+Q:Is your character Darth Sideus' apprentice?
+A:Count Dooku
+A:Emperor Palpatine
+Q:Is your character an aprentice of Desann?
+A:Tavion Axmis
+Q:Does your character kill Count Duku?
+A:Darth Vader
+A:Sifo-Dyas
+Q:Is your character killed by Obi-Wan Kenobi?
+A:Darth Maul
+Q:Is your character obsessed with immortality?
+A:Darth Plagueis
+A:Desann
+Q:Is your character a Wookiee?
+A:Lowbacca
+Q:Is your character Twi'lek?
+A:Aayla Secura
+Q:Is your character married to Luke Skywalker?
+A:Mara Jade Skywalker
+A:Kyle Katarn
+Q:Is your character a senator in the Galactic Senate?
+Q:Is your character female?
+Q:Is your character a leader of the Rebel Alliance?
+A:Mon Mothma
+A:Padme Amidala
+Q:Does your character represent the planet Corellia?
+A:Garm Bel Iblis
+Q:Is your character human?
+Q:Does your character represent Alderaan?
+A:Bail Organa
+A:Bail Antilles
+A:Jar Jar Binks
+Q:Is your character human?
+Q:Is your character a pilot?
+Q:Has your character owned the Millennium Falcon? 
+Q:Is your character married to Leia Organa?
+A:Han Solo
+A:Lando Calrissian
+Q:Is your character a clone?
+Q:Is your character a bounty hunter?
+A:Boba Fett
+A:Commander Cody
+Q:Did your character perish in the Battle of Endor?
+A:Arvel Crynyd
+Q:Is your character from Tatooine?
+A:Biggs Darklighter
+Q:Is your character a bounty hunter?
+Q:Is your character killed by Mace Windu?
+A:Jango Fett
+A:Dengar
+Q:Did your character command a Star Destroyer?
+A:Jan Dodonna
+Q:Is your character female?
+A:Jan Ors
+Q:Is your character overweight?
+A:Jek Tono Porkins
+Q:Does your character perish in the Battle of Hoth?
+A:Dak Ralter
+A:Wedge Antilles
+Q:Is your character female?
+Q:Is your character from Naboo?
+Q:Is your character killed by Zam Wessel?
+A:Corde
+Q:Is your character queen of Naboo?
+A:Queen Jamillia
+Q:Is your character related to Padme Amidala?
+Q:Is your character Padme's sister?
+A:Sola Naberrie
+A:Jobal Naberrie
+Q:Does your character participate in the Battle of Naboo?
+A:Sabe
+A:Dorme
+Q:Is your character from Tatooine?
+Q:Is your character killed by the Galactic Empire?
+A:Beru Lars
+A:Shmi Skywalker
+Q:Is your character a descendent of Anakin Skywalker?
+A:Princess Leia Organa
+A:Queen Breha Antilles Organa
+Q:Is your character a member of the Rebellion?
+Q:Does your character command a starship?
+A:Raymus Antilles
+Q:Does your character command Echo Base?
+A:General Carlist Rieekan
+A:Bren Derlin
+Q:Is your character part of the Empire?
+Q:Is your character an officer?
+Q:Does your character serve on the first Death Star?
+Q:Is your character troubled by the Rebellion having plans to the first Death Star?
+Q:Does your character command the first Death Star?
+A:Grand Moff Wilhuff Tarkin
+A:General Cassio Tagge
+A:Admiral Conan Antonio Motti
+Q:Did your character participate in the Battle of Hoth?
+Q:Is your character killed by Darth Vader?
+A:Firmus Piett
+Q:Does your character lead the ground assault on Echo Base?
+A:General Maximilian Veers
+A:Admiral Kendal Ozzel
+A:Moff Jerjerrod
+A:Davin Felth
+Q:Is your character from Tatooine?
+Q:Is your character married to Shmi Skywalker?
+A:Cliegg Lars
+A:Owen Lars
+Q:Does your character live on Cloud City?
+A:Lobot
+Q:Is your character from Naboo?
+Q:Is your character responsible for protecting Senator Amidala from assassination?
+A:Captain Gregar Typho
+A:Captain Panaka
+A:Sio Bibble
+Q:Is your character a member of the Rebellion?
+Q:Is your character a pilot?
+A:Chewbacca
+A:Admiral Ackbar
+Q:Does your character have blue skin?
+Q:Does your character podrace?
+A:Ebe Endocott
+Q:Is your character from Utapau?
+A:Tion Medon
+Q:Is you character a musician?
+A:Max Rebo
+Q:Does your character own a junk shop?
+A:Watto
+Q:Is your character from Kamino?
+A:Taun We
+A:Mas Amedda
+Q:Is your character a bounty hunter?
+Q:Is your character a spy?
+A:Garindan ("Long-Snoot")
+Q:Is your character killed by Han Solo?
+A:Greedo
+Q:Is your character a changeling?
+A:Zam Wesell
+Q:Does your character use a breathing aparatus?
+A:Zuckuss
+A:Bossk
+Q:Is your character an ewok?
+Q:Is your character a shaman?
+A:Logray
+Q:Does your character assist Princess Leia?
+A:Wicket W. Warrick
+A:Chief Chirrpa
+Q:Does your character originate from within the galaxy?
+Q:Is your character a member of Jabba the Hutt's court?
+Q:Is your character Twi'lek?
+Q:Is your character a dancer?
+Q:Is your character eaten by the Rancor?
+A:Oola
+A:Lyn Me
+A:Bib Fortuna
+Q:Is your character overweight?
+Q:Does your character dance?
+Q:Does your character sing?
+A:Sy Snootles
+A:Yarna D'al Gargan
+Q:Is your character eaten by the Rancor?
+A:Jubnuk
+Q:Does your character play music?
+A:Droopy McCool
+A:Jabba the Hutt
+Q:Is your character Rodian?
+A:Greeata
+Q:Does your character have tenticles?
+A:Tessek
+A:Salacious B. Crumb
+Q:Is your character of normal human height?
+Q:Does your character commentate the Boonta Eve Classic?
+Q:Is your character's skin red?
+A:Fode
+A:Beed
+Q:Is your character part of the Trade Federation?
+A:Nute Gunray
+Q:Does your character have four arms?
+Q:Is your character a podracer pilot?
+A:Ben Quadrinaros
+A:Dexter Jettster
+Q:Is your character from Geonosis?
+A:Poggle the Lesser
+A:Doctor Cornelius Evazan
+A:Sebulba
+A:Nas Choka

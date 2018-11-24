@@ -1,0 +1,93 @@
+Welcome to CS 106B 20 Questions!
+Think of an item, and I will guess it
+using a series of yes-or-no questions.
+I can also learn and grow smarter over time.
+
+Shall I recall my previous memory state? n
+
+P)lay, R)ead, W)rite, M)erge, S)tats, Q)uit? s
+Brain: Q0/A1, Height: 1, Games: W0/L0
+
+P)lay, R)ead, W)rite, M)erge, S)tats, Q)uit? p
+Are you thinking of: computer? y
+Hooray, I win!
+
+P)lay, R)ead, W)rite, M)erge, S)tats, Q)uit? p
+Are you thinking of: computer? y
+Hooray, I win!
+
+P)lay, R)ead, W)rite, M)erge, S)tats, Q)uit? p
+Are you thinking of: computer? n
+Drat, I lost. What was your object? cow
+Type a Y/N question to distinguish cow from computer: Does it give milk?
+And what is the answer for cow? y
+
+P)lay, R)ead, W)rite, M)erge, S)tats, Q)uit? p
+Does it give milk? n
+Are you thinking of: computer? y
+Hooray, I win!
+
+P)lay, R)ead, W)rite, M)erge, S)tats, Q)uit? p
+Does it give milk? y
+Are you thinking of: cow? y
+Hooray, I win!
+
+P)lay, R)ead, W)rite, M)erge, S)tats, Q)uit? p
+Does it give milk? n
+Are you thinking of: computer? n
+Drat, I lost. What was your object? football
+Type a Y/N question to distinguish football from computer: Is it an electronic device...
+And what is the answer for football? n
+
+P)lay, R)ead, W)rite, M)erge, S)tats, Q)uit? s
+Brain: Q2/A3, Height: 2-3, Games: W4/L2 (66.7%)
+
+P)lay, R)ead, W)rite, M)erge, S)tats, Q)uit? p
+Does it give milk? n
+Is it an electronic device... n
+Are you thinking of: football? n
+Drat, I lost. What was your object? flower
+Type a Y/N question to distinguish flower from football: is it LOVELY??
+And what is the answer for flower? y
+
+P)lay, R)ead, W)rite, M)erge, S)tats, Q)uit? p
+Does it give milk? n
+Is it an electronic device... n
+is it LOVELY?? y
+Are you thinking of: flower? y
+Hooray, I win!
+
+P)lay, R)ead, W)rite, M)erge, S)tats, Q)uit? p
+Does it give milk? n
+Is it an electronic device... n
+is it LOVELY?? y
+Are you thinking of: flower? n
+Drat, I lost. What was your object? wife
+Type a Y/N question to distinguish wife from flower: Is This Item Married?
+And what is the answer for wife? y
+
+P)lay, R)ead, W)rite, M)erge, S)tats, Q)uit? s
+Brain: Q4/A5, Height: 2-5, Games: W5/L4 (55.6%)
+
+P)lay, R)ead, W)rite, M)erge, S)tats, Q)uit? p
+Does it give milk? y
+Are you thinking of: cow? n
+Drat, I lost. What was your object? Safeway
+Type a Y/N question to distinguish Safeway from cow: Is it a store
+And what is the answer for Safeway? y
+
+P)lay, R)ead, W)rite, M)erge, S)tats, Q)uit? p
+Does it give milk? y
+Is it a store y
+Are you thinking of: Safeway? y
+Hooray, I win!
+
+P)lay, R)ead, W)rite, M)erge, S)tats, Q)uit? s
+Brain: Q5/A6, Height: 3-5, Games: W6/L5 (54.5%)
+
+P)lay, R)ead, W)rite, M)erge, S)tats, Q)uit? q
+
+Remembering this memory state for later ...
+Writing question tree ...
+
+Thanks for playing!

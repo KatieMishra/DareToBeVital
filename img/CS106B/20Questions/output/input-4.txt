@@ -1,0 +1,24 @@
+n
+r
+questions.txt
+m
+starwars-tiny.txt
+Is it a Star Wars character?
+y
+s
+p
+n
+y
+y
+y
+p
+y
+n
+y
+y
+p
+y
+y
+n
+y
+q

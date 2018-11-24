@@ -1,0 +1,6 @@
+heart::=<3|<333
+smily::=:)|:D|:-)
+happyText::=love you|you’re the best
+sadText::=aw sorry|you’ll do better next time!
+emoji-text::=happyText heart|happyText smily|sadText sad heart|sadText heart
+sad::=:(|D:|:(((|:’(

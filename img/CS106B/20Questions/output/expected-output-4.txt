@@ -1,0 +1,47 @@
+Welcome to CS 106B 20 Questions!
+Think of an item, and I will guess it
+using a series of yes-or-no questions.
+I can also learn and grow smarter over time.
+
+Shall I recall my previous memory state? n
+
+P)lay, R)ead, W)rite, M)erge, S)tats, Q)uit? r
+Input file name? questions.txt
+Reading question tree ...
+
+P)lay, R)ead, W)rite, M)erge, S)tats, Q)uit? m
+Input file name? starwars-tiny.txt
+Reading question tree ...
+Type a Y/N question to distinguish my data from this file: Is it a Star Wars character?
+And what is the answer for the new data? y
+
+P)lay, R)ead, W)rite, M)erge, S)tats, Q)uit? s
+Brain: Q11/A12, Height: 4-6, Games: W0/L0
+
+P)lay, R)ead, W)rite, M)erge, S)tats, Q)uit? p
+Is it a Star Wars character? n
+Is it an animal? y
+Can it fly? y
+Are you thinking of: bird? y
+Hooray, I win!
+
+P)lay, R)ead, W)rite, M)erge, S)tats, Q)uit? p
+Is it a Star Wars character? y
+Does it use the Force? n
+Is it metal? y
+Are you thinking of: droid? y
+Hooray, I win!
+
+P)lay, R)ead, W)rite, M)erge, S)tats, Q)uit? p
+Is it a Star Wars character? y
+Does it use the Force? y
+Is it evil? n
+Are you thinking of: Jedi? y
+Hooray, I win!
+
+P)lay, R)ead, W)rite, M)erge, S)tats, Q)uit? q
+
+Remembering this memory state for later ...
+Writing question tree ...
+
+Thanks for playing!
